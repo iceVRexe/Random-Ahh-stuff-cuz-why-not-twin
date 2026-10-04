@@ -1,2 +1,2 @@
 # Random-Ahh-stuff-cuz-why-not-twin
-yeha cool
+soooooo this is my super mega awesome cooliosis github repo for random ahh stuff cuz why not twin...!

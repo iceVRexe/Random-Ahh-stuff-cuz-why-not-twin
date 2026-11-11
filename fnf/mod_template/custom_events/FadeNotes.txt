@@ -1,0 +1,3 @@
+Value 1: "on" or "off" - turns it ON or OFF
+Value 2: Is the SPEED!!
+Value 3: don't exist

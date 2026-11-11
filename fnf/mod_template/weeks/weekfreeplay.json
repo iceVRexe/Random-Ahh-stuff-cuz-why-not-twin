@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"eventtest",
+			"bf",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "freeplay",
+	"weekName": "freeplay",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

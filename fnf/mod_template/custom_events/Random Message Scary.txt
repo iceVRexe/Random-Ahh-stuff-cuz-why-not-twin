@@ -1,0 +1,4 @@
+Value 1 is the text,
+Value 2 Sets the text size
+Leave Value 1 Blank To Remove Text
+(Text auto removes if a new text is made)

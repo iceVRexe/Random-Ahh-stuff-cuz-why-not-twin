@@ -1,0 +1,773 @@
+{
+	"player1": "bf",
+	"gfVersion": "gf",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[0, 6, 0],
+				[600, 4, 600],
+				[1200, 4, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[2400, 2, 0],
+				[3000, 0, 600],
+				[3600, 0, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[4800, 6, 600],
+				[5400, 7, 600],
+				[6000, 4, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[7200, 2, 600],
+				[7800, 3, 600],
+				[8400, 0, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[15450, 6, 600],
+				[16050, 7, 0],
+				[16350, 5, 0],
+				[16650, 4, 750]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[17400, 4, 600],
+				[18000, 4, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[20400, 2, 600],
+				[21000, 3, 0],
+				[21300, 1, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21600, 0, 600],
+				[22800, 6, 0],
+				[23100, 7, 0],
+				[23850, 5, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[24000, 6, 750],
+				[25200, 6, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[26400, 6, 600]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[33000, 0, 450],
+				[33450, 1, 450]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[34050, 3, 450],
+				[34800, 2, 675],
+				[35400, 1, 375]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[36000, 1, 375],
+				[36600, 1, 375],
+				[37200, 1, 525]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 96
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 100
+		}
+	],
+	"events": [
+		[
+			4421.05263157895,
+			[
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			9000,
+			[
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			27750,
+			[
+				["Random Message", "i can't......", "48"]
+			]
+		],
+		[
+			29700,
+			[
+				["Random Message", "remember.....", "48"]
+			]
+		],
+		[
+			38400,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			38550,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			38700,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			38850,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39000,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39150,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39300,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39450,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39600,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39750,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			39900,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40050,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40200,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40350,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40500,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40650,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40800,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			40950,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41100,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41250,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41400,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41550,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41700,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			41850,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42000,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42150,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42300,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42450,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42600,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42750,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			42900,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43050,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43200,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43350,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43500,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43650,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43800,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			43950,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44100,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44250,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44400,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44550,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44700,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			44850,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45000,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45150,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45300,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45450,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45600,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45750,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			45900,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46050,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46200,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46350,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46500,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46650,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46800,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			46950,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47100,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47250,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47400,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47550,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47700,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			47850,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48000,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48150,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48300,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48450,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48600,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48750,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			48900,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49050,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49200,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49350,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49500,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49650,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49800,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			49950,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			50100,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			50250,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		],
+		[
+			50400,
+			[
+				["Random Message Scary", "HELP", "120"]
+			]
+		]
+	],
+	"player2": "dad",
+	"offset": 0,
+	"song": "bopeeboo",
+	"needsVoices": true,
+	"stage": "stage",
+	"bpm": 100,
+	"speed": 1.8,
+	"format": "psych_v1"
+}

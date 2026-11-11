@@ -1,0 +1,27 @@
+{
+	"storyName": "please help me",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"tutoriall",
+			"gf",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "lost",
+	"hiddenUntilUnlocked": false
+}

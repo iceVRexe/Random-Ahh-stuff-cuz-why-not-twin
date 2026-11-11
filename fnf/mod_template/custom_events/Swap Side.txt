@@ -1,0 +1,2 @@
+Value 1: "on" turns the swap on, "off" turns it off back to OG
+Value 2: is the speed of the swap
